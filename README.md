@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+creaint read me for my class so i can get student copilot :)
 <!--
 **annwalie/annwalie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
